@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "uhtairdrop",
     "public": "public",
     "ignore": [
       "firebase.json",
