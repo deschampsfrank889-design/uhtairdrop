@@ -11,7 +11,7 @@
 
             <div class="md:px-[10%] px-[2%] h-fit pt-[130px] md:pt-[180px] flex flex-col items-center md:items-start justify-center md:w-[55%]"
                 id="home">
-                <p class="text-[18px] md:text-[18px] font-semibold">UHT turns healthy living into real rewards. By
+                <p class="text-[18px] md:text-[18px] font-semibold">UHT bnjujturns healthy living into real rewards. By
                     blending blockchain and wellness, we give people everywhere the chance to earn while building a
                     healthier world. With UHT, your lifestyle is your wealth.</p>
 
