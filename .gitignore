@@ -1,0 +1,59 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Nuxt
+.nuxt/
+dist/
+.nuxt/
+output/
+
+# Vite / local cache
+.vite/
+.cache/
+*.local
+
+# Logs
+logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# JetBrains/WebStorm
+.idea/
+
+# VSCode
+.vscode/
+
+# Optional: public build files
+public/.DS_Store
+
+node_modules
+.output
+.nuxt
+.env
+.env.*
+dist
+.vercel
+
+# Firebase cache
+.firebase/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+firebase-debug.log*
+firebase-debug.*.log*
