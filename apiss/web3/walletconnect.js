@@ -9,7 +9,7 @@ import { BrowserProvider, ethers, Contract, formatUnits, parseEther } from 'ethe
 const metadata = {
   name: 'UHT Crypto',
   description: 'Turning healthy living into real rewards',
-  url: 'https://www.uhtgoqii.xyz/',
+  url: 'https://www.uhtgoqii.xyz',
   icons: ['https://avatars.mywebsite.com/']
 }
 
@@ -18,7 +18,7 @@ const modal = createAppKit({
   metadata,
   adapters: [new EthersAdapter()],
   networks: [mainnet, sepolia],
-  projectId: 'cb5946e99ced72b20309cf8519d852d2',
+  projectId: 'abaef726b6488338e7f2416225273f8f',
   features: {
     socials: false,
     email: false
